@@ -39,6 +39,10 @@ python 摄像头覆盖范围预估.py
 python 摄像头标定.py
 ```
 
+## 参考文献
+
+- [相机投影矩阵与内外参计算](https://gu.ink/2024/lidar-camera-pnp/index.html)
+
 ## 其他说明
 
 - 请确保在使用前已经安装了所有必要的依赖库。
